@@ -2,7 +2,7 @@
 
 RMI and REST API Fire Alarm System
 
- ---RUN THE RESTFUL API & WEB CLIENT---
+ --RUN THE RESTFUL API & WEB CLIENT--
 
  01. Navigate in to back_end directory.
  02. Open a new terminal.
