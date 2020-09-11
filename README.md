@@ -20,3 +20,4 @@ RUN RMI-GUI-CLIENT
  04. Navigate back to previous folder.
  05. Open another terminal.
  06. Run the command "npm start" and leave the terminal for run the web client.
+ hh
